@@ -1,2 +1,2 @@
 # OOPS_project
-just a bsic OOPS project.
+just a basic OOPS project.
