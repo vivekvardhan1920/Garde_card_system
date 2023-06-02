@@ -1,2 +1,2 @@
-# OOPS_project
-just a basic OOPS project.
+# Cpp_project
+just a basic cpp project.
